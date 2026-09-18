@@ -1,0 +1,6 @@
+[submodule "skills/approve-for-me"]
+	path = skills/approve-for-me
+	url = https://github.com/Weatwagon/antigravity-approve-for-me.git
+[submodule "skills/review-loop"]
+	path = skills/review-loop
+	url = https://github.com/Weatwagon/antigravity-review-loop.git
