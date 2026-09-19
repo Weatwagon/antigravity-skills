@@ -15,8 +15,8 @@ Each skill in this catalog is maintained as an independent, modular repository a
 | Skill | Repository | Description | Quick Trigger |
 | :--- | :--- | :--- | :--- |
 | 🛡️ **Approve for Me** | [Weatwagon/antigravity-approve-for-me](https://github.com/Weatwagon/antigravity-approve-for-me) | OpenAI Codex / ChatGPT Desktop parity auto-review guardian. Auto-approves routine workspace commands with zero clicks while blocking destructive actions. | `guardian status`<br>`guardian mode approve-for-me` |
-| 🔁 **Review Loop** | [Weatwagon/antigravity-review-loop](https://github.com/Weatwagon/antigravity-review-loop) | Two-tier autonomous gated engineering workflow: Plan &rarr; Gate 1: Cranky PM (1–10) &rarr; Implement &rarr; Gate 2: Senior Staff Dev & Ponytail Anti-Bloat Review (0–100%). | `/review-loop`<br>`start /reviewLoop` |
-| ✂️ **Ponytail** *(Companion)* | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | The acclaimed minimalist engine by Dietrich Gebert: standard library first, native platform features, and zero speculative scaffolding. | `/ponytail`<br>`/ponytail-audit` |
+| 🔁 **Review Loop** | [Weatwagon/antigravity-review-loop](https://github.com/Weatwagon/antigravity-review-loop) | Two-tier autonomous gated engineering workflow: Plan &rarr; Gate 1: Cranky PM (1–10) &rarr; Implement &rarr; Gate 2: Senior Staff Dev & QA Review (0–100%). | `/review-loop`<br>`start /reviewLoop` |
+| ✂️ **Ponytail** *(Optional Companion)* | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | The acclaimed minimalist engine by Dietrich Gebert: standard library first, native platform features, and zero speculative scaffolding. | `/ponytail`<br>`/ponytail-audit` |
 
 ---
 
